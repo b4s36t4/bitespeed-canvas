@@ -1,0 +1,5 @@
+.container {
+  height: calc(100vh - var(--app-shell-header-height));
+  width: calc(100vw - var(--app-shell-navbar-width));
+  padding-bottom: 20px;
+}

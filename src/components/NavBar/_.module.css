@@ -1,0 +1,11 @@
+.node {
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.node:hover {
+  transform: scale(1.02);
+}
